@@ -1,0 +1,3 @@
+Copyright 2026 Karam Alawaj. All rights reserved.
+
+No license is granted to copy, redistribute, reuse or republish the original portfolio artwork or proprietary implementation. Third-party components are governed by their respective licenses in licenses/.
